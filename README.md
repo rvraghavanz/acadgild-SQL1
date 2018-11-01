@@ -1,1 +1,0 @@
-# acadgild-SQL1
